@@ -1,0 +1,21 @@
+Healthcare Institutions: 
+	- Main section: http://gobi.salud.gob.mx/Bases_Clues.html
+	- Data: http://gobi.salud.gob.mx/historico_clues/ESTABLECIMIENTO_SALUD_202012.xlsx?v=1.1
+
+Healthcare Resources:
+	- Main section: http://www.dgis.salud.gob.mx/contenidos/basesdedatos/da_recursos_gobmx.html
+	- Data:
+		Salud Sectorial.- http://www.dgis.salud.gob.mx/descargas/datosabiertos/recursosSalud/Recursos_Salud_Sectorial_2020.zip?V=1.1
+		Secretaria de Salud.- http://www.dgis.salud.gob.mx/descargas/datosabiertos/recursosSalud/CLUES_2020.csv?V=1.1
+		Catálogos.- http://www.dgis.salud.gob.mx/descargas/datosabiertos/recursosSalud/Catalogos_Recursos.xlsx?V=1.1
+		Descriptores.- http://www.dgis.salud.gob.mx/descargas/datosabiertos/recursosSalud/Descriptores_Recursos.xlsx?V=1.1
+
+Population in México:
+	- Main page: “Fuente: INEGI, Censo de Población y Vivienda 2020. Enlace:https://www.inegi.org.mx/programas/ccpv/2020/#Datos_abiertos"
+	- Data: https://www.inegi.org.mx/contenidos/programas/ccpv/2020/datosabiertos/iter/iter_00_cpv2020_csv.zip
+
+Federal Boundaries:
+	- Main page: Instituto de Geografía, UNAM. Enlace: https://www.gits.igg.unam.mx/idea/descarga
+	- Data: 
+		- States: https://www.gits.igg.unam.mx/repositoriodecapas/geojson/u_territorial_estados_mgn_inegi_2013.json
+		- Towns: https://www.gits.igg.unam.mx/repositoriodecapas/geojson/u_territorial_municipios_mgn_inegi_2013.json
