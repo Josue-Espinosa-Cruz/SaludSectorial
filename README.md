@@ -1,5 +1,5 @@
 # SaludSectorial
-Set of Jupyter notebooks describing the process of loading, cleaning and displaying geographical distribution of mexican healthcare resources as well as a comparation between them. 
+Set of Jupyter notebooks describing the process of loading, cleaning and displaying geographical distribution of mexican healthcare resources.
 
 It's added two Jupyter notebooks: KM_GeoJSON_Ent & KM_GeoJSON_Mun which describe procedures to reduce coordinates in GeoJSON files maintaining
 substantial morphological information.
