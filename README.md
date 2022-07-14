@@ -8,3 +8,4 @@ substantial morphological information.
 
 **Dashboard can be found at the folloging URL:** https://sse-clues.herokuapp.com/
 
+![image](https://user-images.githubusercontent.com/94022881/179116198-e3b8f869-08e1-4aad-8736-650e553d806a.png)
