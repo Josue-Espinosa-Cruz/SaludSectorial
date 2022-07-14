@@ -1,5 +1,4 @@
 # SaludSectorial
-
 Set of Jupyter notebooks describing the process of loading, cleaning, pre-analysing and displaying the geographical distribution of mexican healthcare resources
 per States and Towns as well as a comparation between states per towns or healthcare units. 
 
