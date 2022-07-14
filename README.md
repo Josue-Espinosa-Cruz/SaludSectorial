@@ -1,5 +1,5 @@
 # SaludSectorial
-Hola
+Interactive geographical visualization of mexican healthcare resources. 
 
 It's added two Jupyter notebooks: KM_GeoJSON_Ent & KM_GeoJSON_Mun which describe procedures to reduce coordinates in GeoJSON files maintaining
 substantial morphological information.
